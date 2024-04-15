@@ -2,5 +2,4 @@
 
 ![Header Image- TicTacToe](tic.png)
 
-Demo : (https://rock-paper-scissor-phi-lime.vercel.app/)
 
